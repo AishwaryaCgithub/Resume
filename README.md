@@ -9,7 +9,7 @@
     To Utilize my technical skills for achieving the target and developing the best performance in the organization. <br>
     </div>
     <div>
-    <h3><b><i><u>Education Qualification :</u></i></b></h3>
+    <h3><b><i><u>Education Qualification :</u></i></b><hr></h3>
     <table border="1">
         <tr><th>University </th>
             <th>Course</th>
@@ -39,18 +39,18 @@
         </tr>
     </table></div><br>
     <div>
-       <h3><b><i><u>Project :</u></i></b></h3>
+       <h3><b><i><u>Project :</u></i></b><hr></h3>
         <b>Title: </b>Fake Product Review and Monitoring<br><br>
         people are buying products in E-commerce sites sometimes people will get fake product from some companies so, we need to avoid getting fake product from buying by other user.
         <br>
         <b>My Role - </b>To check whether the software is working finr or not(Manual Testing).
     </div><br>
     <div>
-       <h3> <b><i><u>Training / Course :</u></i></b></h3>
+       <h3> <b><i><u>Training / Course :</u></i></b><hr></h3>
         Software Testing Certified Course - Qspider's Training Institute.
     </div><br>
     <div>
-        <h3><b><u><i>Knowledge on :</i></u></b></h3>
+        <h3><b><u><i>Knowledge on :</i></u></b><hr></h3>
         <ul type="i">
             <li>Jira Tool</li>
             <li>Postman</li>
@@ -59,7 +59,7 @@
         </ul>
     </div>
     <div>
-        <h3><u><i>Technical Skills :</i></u></h3>
+        <h3><u><i>Technical Skills :</i></u><hr></h3>
         <b>Manual Testing - </b>
         <pre>
             Functional and Non-Functional Testing , SDLC , STLC
@@ -93,7 +93,7 @@
 </p>
 
 <div><p>
-    <h3><u><i>Personal Profile : </i></u></h3>
+    <h3><u><i>Personal Profile : </i></u><hr></h3>
     <b>Date of Birth - </b>14/07/2000 <br>
     <b>Father Name - </b>Chakrapani K <br>
     <b>Languages - </b>English , Kannada <br>
@@ -101,7 +101,7 @@
     <b>Hobbies - </b>Listening Music <br>
     <b>Address - </b>Kobripet , 1st cross Hosadurga(D) , Chitradurga(T) , Karnataka-577527 <br>
 </p></div>
-<div><p><h3><u><i>Declaration :</i></u></h3>
+<div><p><h3><u><i>Declaration :</i></u><hr></h3>
     I hereby declare that above information are true to best of my knowledge and hold the responsibility of the facts furnished.
 </p>
 <b><i>Date - </i></b><br>
