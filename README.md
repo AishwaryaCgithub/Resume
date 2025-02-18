@@ -5,7 +5,7 @@
     <b>Email :</b>aishwaryajanu09@gmail.com
 </p>
 
-<p<div><h3><b><i><u>Career Objective :</u></i></b></h3>
+<p <div><h3><b><i><u>Career Objective :</u></i></b><hr></h3>
     To Utilize my technical skills for achieving the target and developing the best performance in the organization. <br>
     </div>
     <div>
