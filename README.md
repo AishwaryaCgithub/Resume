@@ -1,5 +1,5 @@
 <p>
-<h1 align="center">Resume</h1></p>
+<h1 align="center">Resume</h1><hr></p>
 <p><b>Name :</b>Aishwarya C <br>
     <b>Mob no :</b>7019197293 <br>
     <b>Email :</b>aishwaryajanu09@gmail.com
